@@ -1,6 +1,6 @@
 # Google Calendar for Chrome
 
-[![Install Now](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich)
+[![Install Now](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)
 
 ## Quick overview of your Google Calendar with one-click access to locations & documents
 

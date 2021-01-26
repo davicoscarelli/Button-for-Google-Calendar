@@ -3,6 +3,7 @@
   "name": "Button for Google Calendar™",
   "description": "Quick overview of your Google Calendar with one-click access to locations & documents.",
   "version": "3.4.0",
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzO8gAn6n4s5Ohs50F2lmLGsO0FVKIwYyro8qZHlU+9pF85wGBEqoNwSeawr+AZdLgtnQRkIgatLM68EX8sB0DErp3Ds4qCvY8VufvvDIoqxdKtC3QlFxR9PoUZMY7/4lb/OadWnr0UjekxcSNVyk6nqZkTFCcE7RWDMDZ8qwqsQIDAQAB",
   "default_locale": "en",
   "icons": {
     "16": "icons/logo_calendar_32.png",

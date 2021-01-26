@@ -2,6 +2,7 @@
 
 <img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Git%20preview.png" width="auto">
 
+
 ## Quick overview of your Google Calendar with one-click access to locations & documents
 
 Get a button on your browser toolbar that you can easily click to see upcoming

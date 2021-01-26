@@ -1,4 +1,4 @@
-# Google Calendar for Chrome
+# Button for Google Calendar™
 
 [![Install Now](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)
 

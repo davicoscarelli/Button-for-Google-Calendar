@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Button for Google Calendar™",
-  "description": "Quick overview of your Google Calendar with one-click access to locations & documents",
+  "description": "Quick overview of your Google Calendar with one-click access to locations & documents.",
   "version": "3.4.0",
   "default_locale": "en",
   "icons": {

@@ -1,6 +1,6 @@
 # Button for Google Calendar™
 
-<img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Site%20preview.png" width="600">
+<img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Site%20preview.png" width="auto">
 
 ## Quick overview of your Google Calendar with one-click access to locations & documents
 

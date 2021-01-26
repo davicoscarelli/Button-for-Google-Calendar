@@ -1,8 +1,6 @@
 # Button for Google Calendar™
 
-(https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Site%20preview.png?raw=true)
-
-[![Install Now](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)
+<img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Site%20preview.png" width="600">
 
 ## Quick overview of your Google Calendar with one-click access to locations & documents
 
@@ -17,3 +15,5 @@ locations or attached documents in one click.
     Chrome.
 *   If you want to use a Google Apps calendar, you should login to that account
     first, then open the extension.
+    
+[![Install Now](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)

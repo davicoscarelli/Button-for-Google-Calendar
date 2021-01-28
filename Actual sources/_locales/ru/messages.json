@@ -1,14 +1,14 @@
 {
   "google_calendar_extension_name": {
-    "message": "Google Calendar",
+    "message": "Button for Google Calendar™",
     "description": "The name of this extension."
   },
   "google_calendar_extension_desc": {
-    "message": "Просматривайте Календарь Google и добавляйте события во время просмотра вебсайтов.",
+    "message": "Просматривайте Календарь Google™ и добавляйте события во время просмотра вебсайтов.",
     "description": "Description of what this extension does."
   },
   "logo_text": {
-    "message": "Календарь Google",
+    "message": "Button for Google Calendar™",
     "description": "The name of the Calendar product, including the word Google."
   },
   "read_more_at_original_url": {

@@ -3,7 +3,7 @@
   "name": "Button for Google Calendar™",
   "description": "Quick overview of your Google Calendar with one-click access to locations & documents.",
   "version": "3.4.0",
-  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzO8gAn6n4s5Ohs50F2lmLGsO0FVKIwYyro8qZHlU+9pF85wGBEqoNwSeawr+AZdLgtnQRkIgatLM68EX8sB0DErp3Ds4qCvY8VufvvDIoqxdKtC3QlFxR9PoUZMY7/4lb/OadWnr0UjekxcSNVyk6nqZkTFCcE7RWDMDZ8qwqsQIDAQAB",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlIddPmUs0eTSGw2Wlj88qPJbqb4fKUt6SOEaHpxqXcTWRRYVEM9Xi4b63/8RhVx8fOAuTPCCUFD9sDZVRxu90ZssW3U0gYl+8/3DanhNs6RpjyqnhLtB5Lib8K6b/6tCY0XCj1ZuqnHCQiwVLDnNlK7n2jjR68LkD/ksQEzeAATekpJpoKh91ee5ETNt9S7cPar+WDClSKPDNtEOB73Y1itEpEgSaqlXvE5bWoQ3Sm7Xyz7rSt61rpk3/FljxWMbmUdHcyJUzKveKz7XiktxKoC611Lo7dPmyQwOc+iCGuiAWSaToKfiwV+Bbl5pXN6ErQSKYQcU6IPUTyPVsJ2YwwIDAQAB",
   "default_locale": "en",
   "icons": {
     "16": "icons/logo_calendar_32.png",

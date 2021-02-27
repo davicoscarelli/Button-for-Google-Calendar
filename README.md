@@ -4,7 +4,7 @@
 </br>
 
 # Quick overview of your Google Calendar™ with one-click access
-An exact replica of the legendary extension made by @manastungare .
+An exact replica of the legendary extension made by @manastungare.
 
 Get a button on your browser toolbar that you can easily click to see upcoming events from Google Calendar™ without ever leaving your page.
 

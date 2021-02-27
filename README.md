@@ -20,4 +20,4 @@ Get a button on your browser toolbar that you can easily click to see upcoming e
 
 </br>
 
-[![Install](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)
+[Official site of the extension](https://buttonforcalendar.app/). [Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).

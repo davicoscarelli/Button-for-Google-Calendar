@@ -4,7 +4,7 @@
     "description": "The name of this extension."
   },
   "google_calendar_extension_desc": {
-    "message": "Quick overview of your Google Calendar with one-click access to locations & documents",
+    "message": "Quick overview of your Google Calendar™ with one-click access",
     "description": "Description of what this extension does."
   },
   "logo_text": {
@@ -40,7 +40,7 @@
     "description": "Message shown as a placeholder when there are no future events at all. It applies both to today and all future dates."
   },
   "authorization_required": {
-    "message": "Authorize Google Calendar",
+    "message": "Authorize Google Calendar™",
     "description": "A message shown when the user needs to grant permission for this extension to read events from their calendar."
   },
   "authorization_in_progress": {
@@ -48,11 +48,11 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Google Calendar for Chrome lets you check your calendar while you visit other websites. For this, you need to grant it access to your calendar. This is a one-time setup step required before you can use this app.",
+    "message": "Button for Google Calendar™ lets you check your calendar while you visit other websites. For this, you need to grant it access to your calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {
-    "message": "Problems?",
+    "message": "Need help?",
     "description": "A link that provides troubleshooting information related to authorization."
   },
   "error_saving_new_event": {
@@ -60,19 +60,19 @@
     "description": "An error message shown when a user-added quick-add event could not be saved."
   },
   "add_to_google_calendar": {
-    "message": "Add to Google Calendar",
+    "message": "Add to Google Calendar™",
     "description": "Alt text and/or link text for the link that users click to add event to their calendar."
   },
   "sync_now": {
-    "message": "Update the list of events from the server.",
+    "message": "Update the list of events",
     "description": "Alternate text for the icon that forces syncing the calendar right away."
   },
   "show_quick_add": {
-    "message": "Add a new event by typing in the event details.",
+    "message": "Add a new event",
     "description": "Alternate text for the icon that shows the text area where users add details of new events."
   },
   "show_options": {
-    "message": "Change options for this extension",
+    "message": "Change extension options",
     "description": "Alternate text for the icon that opens the Options screen in a new window."
   },
   "fetching_feed": {

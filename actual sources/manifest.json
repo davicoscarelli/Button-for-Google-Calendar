@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Button for Google Calendar™",
-  "description": "Quick overview of your Google Calendar with one-click access to locations & documents.",
-  "version": "3.4.0",
+  "description": "Quick overview of your Google Calendar™ with one-click access.",
+  "version": "3.5.0",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlIddPmUs0eTSGw2Wlj88qPJbqb4fKUt6SOEaHpxqXcTWRRYVEM9Xi4b63/8RhVx8fOAuTPCCUFD9sDZVRxu90ZssW3U0gYl+8/3DanhNs6RpjyqnhLtB5Lib8K6b/6tCY0XCj1ZuqnHCQiwVLDnNlK7n2jjR68LkD/ksQEzeAATekpJpoKh91ee5ETNt9S7cPar+WDClSKPDNtEOB73Y1itEpEgSaqlXvE5bWoQ3Sm7Xyz7rSt61rpk3/FljxWMbmUdHcyJUzKveKz7XiktxKoC611Lo7dPmyQwOc+iCGuiAWSaToKfiwV+Bbl5pXN6ErQSKYQcU6IPUTyPVsJ2YwwIDAQAB",
   "default_locale": "en",
   "icons": {
@@ -19,7 +19,7 @@
   "oauth2": {
     "client_id": "498582140037-idmaqvknkffr3npnsdl2d09ni80m9gsf.apps.googleusercontent.com",
     "scopes": [
-      "https://www.googleapis.com/auth/calendar"
+      "https://www.googleapis.com/auth/calendar.readonly"
     ]
   },
   "content_security_policy": "script-src 'self' https://calendar.google.com; object-src 'self'",

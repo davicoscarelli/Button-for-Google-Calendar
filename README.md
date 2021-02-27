@@ -15,7 +15,7 @@ Get a button on your browser toolbar that you can easily click to see upcoming e
  * Link to quick add events.
  * Nearest event notifications.
 
-# TROUBLESHOOTING
+# Troubleshooting
 * If you are having trouble authorizing or find a bug — please report about it on calendarbuttonpro@gmail.com.
 
 </br>

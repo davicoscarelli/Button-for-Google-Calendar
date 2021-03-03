@@ -20,4 +20,4 @@ Get a button on your browser toolbar to quickly click to see upcoming events fro
 
 </br>
 
-[Official site of the extension](https://buttonforcalendar.app/). [Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).
+🏡[Official site of the extension](https://buttonforcalendar.app/). 📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).

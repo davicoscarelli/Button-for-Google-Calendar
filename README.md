@@ -3,20 +3,20 @@
 <img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Git%20preview.png" width="auto">
 </br>
 
-# Quick overview of your Google Calendar™ with one-click access
+# A quick overview of your Google Calendar™ with one-click access
 An exact replica of the legendary extension made by [Manas Tungare](https://github.com/manastungare).
 
-Get a button on your browser toolbar that you can easily click to see upcoming events from Google Calendar™ without ever leaving your page.
+Get a button on your browser toolbar to quickly click to see upcoming events from Google Calendar™ without ever leaving the current page.
 
 </br>
 
 # Features
  * Displays events from your selected calendars.
- * Link to quick add events.
- * Nearest event notifications.
+ * Notifies about upcoming events.
+ * Allows you to quickly create a new event.
 
-# Troubleshooting
-* If you are having trouble authorizing or find a bug — please report about it on calendarbuttonpro@gmail.com.
+# HELP
+* If you have any problems or find a bug - write to us at calendarbuttonpro@gmail.com. We will definitely help!
 
 </br>
 

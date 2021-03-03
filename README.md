@@ -3,22 +3,17 @@
 <img src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/Git%20preview.png" width="auto">
 </br>
 
-# Quick overview of your Google Calendar with one-click access to locations & documents
+# A quick overview of your Google Calendar™ with one-click access
+An exact replica of the legendary extension made by [Manas Tungare](https://github.com/manastungare).
 
-Get a button on your browser toolbar that you can easily click to see upcoming
-events from Google Calendar, without ever leaving your page. Access any map
-locations or attached documents in one click.
+Get a button on your browser toolbar to quickly click to see upcoming events from Google Calendar™ without ever leaving the current page.
 
-</br>
+🏡[Official site of the extension](https://buttonforcalendar.app/). 📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).
 
 # Features
+ * Displays events from your selected calendars.
+ * Notifies about upcoming events.
+ * Allows you to quickly create a new event.
 
-*   Displays a preview of your calendar in your browser.
-*   This extension shows events from whatever calendars you are logged in within
-    Chrome.
-*   If you want to use a Google Apps calendar, you should login to that account
-    first, then open the extension.
-
-</br>
-
-[![Install](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chrome.google.com/webstore/detail/google-calendar-by-google/lfjnmopldodmmdhddmeacgjnjeakjpki)
+# HELP
+* If you have any problems or find a bug - write to us at calendarbuttonpro@gmail.com. We will definitely help!

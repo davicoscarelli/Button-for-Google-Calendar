@@ -15,5 +15,5 @@ Get a button on your browser toolbar to quickly click to see upcoming events fro
  * Notifies about upcoming events.
  * Allows you to quickly create a new event.
 
-# HELP
+# Help
 * If you have any problems or find a bug - write to us at calendarbuttonpro@gmail.com. We will definitely help!

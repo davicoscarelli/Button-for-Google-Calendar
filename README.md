@@ -4,7 +4,7 @@
 
 <img align="right" width="320" src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/calendar.png"> 
 
-An exact replica of the legendary extension made by [Manas Tungare](https://github.com/manastungare).
+An exact replica of the legendary extension.
 
 Get a button on your browser toolbar to quickly see upcoming events from your Google Calendar™ without leaving the current tab.
 

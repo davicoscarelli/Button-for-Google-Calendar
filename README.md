@@ -8,8 +8,6 @@ An exact replica of the legendary extension made by [Manas Tungare](https://gith
 
 Get a button on your browser toolbar to quickly see upcoming events from your Google Calendar™ without leaving the current tab.
 
-🏡[Official site of the extension](https://buttonforcalendar.app/). 📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).
-
 ### Features
 * Notifies about upcoming events.
 * Provides quick access to conferences.
@@ -18,3 +16,5 @@ Get a button on your browser toolbar to quickly see upcoming events from your Go
 
 ### Help
 * If you have any problems or find a bug - write to us at calendarbuttonpro@gmail.com. We will definitely help!
+
+🏡[Official site of the extension](https://buttonforcalendar.app/). 📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).

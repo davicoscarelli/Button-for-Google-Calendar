@@ -1,4 +1,7 @@
 # Button for Google Calendar™
+🏡[Official site of the extension](https://buttonforcalendar.app/).
+
+📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).
 
 ## A quick overview of your Google Calendar™ with one-click access
 
@@ -16,5 +19,3 @@ Get a button on your browser toolbar to quickly see upcoming events from your Go
 
 ### Help
 * If you have any problems or find a bug - write to us at calendarbuttonpro@gmail.com. We will definitely help!
-
-🏡[Official site of the extension](https://buttonforcalendar.app/). 📥[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/button-for-google-calenda/lfjnmopldodmmdhddmeacgjnjeakjpki).

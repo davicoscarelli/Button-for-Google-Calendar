@@ -5,7 +5,7 @@
 
 ## A quick overview of your Google Calendar™ with one-click access
 
-<img align="right" width="320" src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/assets/calendar.png"> 
+<img align="right" width="320" src="https://github.com/calendarbuttonpro/Button-for-Google-Calendar/blob/master/calendar.png"> 
 
 An exact replica of the legendary extension.
 

@@ -400,7 +400,8 @@ browseraction.showEventsFromFeed_ = function(events) {
                       .text(headerDate.format(chrome.i18n.getMessage('date_format_date_header'))))
           .appendTo(calendarEventsDiv);
 
-  // If there are no events today, then avoid showing an empty date section.
+
+          // If there are no events today, then avoid showing an empty date section.
   if (events === null || events.length === 0 ||
       moment(events[0].start).diff(headerDate, 'hours') > 23) {
     $('<div>')
@@ -487,37 +488,11 @@ browseraction.createEventDiv_ = function(event) {
     dateTimeFormat = timeFormat;
   }
 
-  var startTimeDiv = $('<div>').addClass('start-time');
-  startTimeDiv.css({'background-color': event.feed.backgroundColor}).attr({
-    'title': event.feed.title  // Show calendar name on mouseover
-  });
-
-  if (!event.allday && !spansMultipleDays) {
-    // Start and end times for partial-day events.
-    startTimeDiv.text(start.format(dateTimeFormat) + ' ' + end.format(dateTimeFormat));
-  }
-  startTimeDiv.appendTo(eventDiv);
+  
 
   var eventDetails = $('<div>').addClass('event-details').appendTo(eventDiv);
 
-  if (event.hangout_url) {
-    $('<a>')
-        .attr({'href': event.hangout_url, 'target': '_blank'})
-        .append($('<img>').addClass('video-call-icon').attr({
-          'src': chrome.extension.getURL('icons/ic_action_video.png')
-        }))
-        .appendTo(eventDetails);
-  }
-
-  if (event.attachments) {
-    // If there are multiple attachments, do nothing. This ideally would have
-    // a nice UI, but we can do without one because multiple attachments are
-    // the exception rather than the norm.
-    $('<a>')
-        .attr({'href': event.attachments[0].fileUrl, 'target': '_blank'})
-        .append($('<img>').addClass('attachment-icon').attr({'src': event.attachments[0].iconLink}))
-        .appendTo(eventDetails);
-  }
+  
 
   var eventTitle = $('<div>').addClass('event-title').text(event.title);
   if (event.responseStatus == constants.EVENT_STATUS_DECLINED) {
@@ -525,16 +500,32 @@ browseraction.createEventDiv_ = function(event) {
   }
   eventTitle.appendTo(eventDetails);
 
+  if (event.hangout_url) {
+    $('<a>')
+        .attr({'href': event.hangout_url, 'target': '_blank'})
+        .append($('<span>').text(event.hangout_url))
+        .addClass('event-location')
+        .append($('<img>').addClass('video-call-icon').attr({
+          'src': chrome.extension.getURL('icons/ic_action_video.png')
+        }))
+        .appendTo(eventDetails);
+  }
+
   if (event.location) {
     var url = event.location.match(/^https?:\/\//) ?
         event.location :
         'https://maps.google.com?q=' + encodeURIComponent(event.location);
-    $('<a>')
+   
+    var itemClass = event.location.match(/zoom/) ? 'video-call-icon' : 'location-icon';
+    var iconPath = event.location.match(/zoom/) ? 'icons/ic_action_video.png' : 'icons/ic_action_place.png';
+    var dots = event.location.length > 38 ? "..." : ""
+    
+      $('<a>')
         .attr({'href': url, 'target': '_blank'})
-        .append($('<span>').text(event.location))
+        .append($('<span>').text(event.location.substring(0,36) + dots))
         .addClass('event-location')
-        .append($('<img>').addClass('location-icon').attr({
-          'src': chrome.extension.getURL('icons/ic_action_place.png')
+        .append($('<img>').addClass(itemClass).attr({
+          'src': chrome.extension.getURL(iconPath)
         }))
         .appendTo(eventDetails);
   }
@@ -547,6 +538,17 @@ browseraction.createEventDiv_ = function(event) {
         .append(start.format(dateTimeFormat) + ' — ' + end.format(dateTimeFormat))
         .appendTo(eventDetails);
   }
+
+  var startTimeDiv = $('<div>').addClass('start-time');
+  // startTimeDiv.css({'background-color': event.feed.backgroundColor}).attr({
+  //   'title': event.feed.title  // Show calendar name on mouseover
+  // });
+
+  if (!event.allday && !spansMultipleDays) {
+    // Start and end times for partial-day events.
+    startTimeDiv.text(start.format(dateTimeFormat) + ' ' + end.format(dateTimeFormat));
+  }
+  startTimeDiv.appendTo(eventDiv);
   return eventDiv;
 };
 

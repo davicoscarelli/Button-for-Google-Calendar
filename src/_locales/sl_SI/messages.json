@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Googlov Koledar za brskalnik Chrome omogoča pregled vašega koledarja med brskanjem po spletnih straneh. Za to, morate dodeliti dostop do vašega koledarja. To je enkratna nastavitev, potrebna, preden lahko uporabite to aplikacijo.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "この拡張機能はあなたのカレンダーの情報を定期的に同期します。そのために、あなたはこの拡張機能にあなたのカレンダーへのアクセス権限を与える必要があります。これはこの拡張機能を使用する前に必要な一度限りの手続きです。",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

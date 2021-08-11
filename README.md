@@ -1,4 +1,4 @@
-# Button for Google Calendar™
+# Quick View - Google Calendar Events
 
 ## A quick overview of your Google Calendar™ with one-click access
 

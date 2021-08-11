@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "To Google Calendar για τον Chrome σου επιτρέπει να βλέπεις το ημερολόγιό σου ενώ επισκέπτεσαι άλλα website. Για να λειτουργήσει αυτό πρέπει να εγκρίνεις την πρόσβαση στο ημερολόγιο. Αυτό είναι μέρος της εγκατάστασης και γίνεται μόνο μία φορά, στην αρχή.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

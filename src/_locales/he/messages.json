@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "יומן גוגל עבור כרום מאפשר לך לבדוק את לוח השנה שלך בזמן שאתה מבקר באתרים אחרים. בשביל זה אתה צריך להעניק גישה ללוח השנה שלך. זהו צעד התקנה חד פעמי הנדרש לפני שתוכל להשתמש באפליקציה זו.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

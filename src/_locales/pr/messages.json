@@ -44,7 +44,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "تقویم گوگل برای گوگل کروم به شما اجازه می دهد تا تقویم خود را در هنگام بازدید از تارنماهای دیگر بازبینی کنید. بدین منظور شما باید اجازه دسترسی به تقویم خود را بدهید. این مرحله تنها یک بار نیاز به تکمیل دارد تا شما بتوانید از این برنامک استفاده کنید",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

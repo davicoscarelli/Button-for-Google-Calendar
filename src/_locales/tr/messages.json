@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Google Takvim sayesinde başka sayfalarda gezinirken de takviminizi kontrol edebilirsiniz. Bunu için takviminize erişmesine izin vermelisiniz. Bu, uygulamayı kullanabilmeniz için tek seferlik bir kurulumdur.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

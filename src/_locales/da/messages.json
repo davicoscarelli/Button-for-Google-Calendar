@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Google Kalender til Chrome tillader dig at tjekke din kalender, mens du besøger andre hjemmesider. For det, skal du give den tilladelse til din kalender. Det er en påkrævet engangsopsætning før du kan benytte denne app.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

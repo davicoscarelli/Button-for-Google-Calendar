@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Lịch Google cho Chrome cho phép bạn kiểm tra lịch của mình khi ghé thăm các trang web khác. Để bắt đầu, bạn cần cho phép truy cập vào lịch của bạn. Đây là bước cài đặt một lần bắt buộc trước khi bạn có thể sử dụng ứng dụng này.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

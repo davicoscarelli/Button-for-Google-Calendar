@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Google Kalendář pro Chrome vám umožňuje zkontrolovat váš kalendář zatímco navštěvujete ostatní webové stránky. Proto rozšíření potřebuje povolit přístup k vašemu kalendáři. To je jednorázový krok vyžadováný předtím, než začnete používat toto rozšíření.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

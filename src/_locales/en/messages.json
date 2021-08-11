@@ -1,6 +1,6 @@
 {
   "google_calendar_extension_name": {
-    "message": "Button for Google Calendar™",
+    "message": "Quick View - Google Calendar Events",
     "description": "The name of this extension."
   },
   "google_calendar_extension_desc": {
@@ -8,7 +8,7 @@
     "description": "Description of what this extension does."
   },
   "logo_text": {
-    "message": "Button for Google Calendar™",
+    "message": "Quick View - Google Calendar Events",
     "description": "The name of the Calendar product, including the word Google."
   },
   "read_more_at_original_url": {
@@ -48,7 +48,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Button for Google Calendar™ lets you check your calendar while you visit other websites. For this, you need to grant it access to your calendar. This is a one-time setup step required before you can use this app.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

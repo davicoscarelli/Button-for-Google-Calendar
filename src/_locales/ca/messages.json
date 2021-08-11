@@ -48,8 +48,8 @@
     "description": "Missatge que es mostra quan es fa clic al botó Autoritzar."
   },
   "authorization_explanation": {
-    "message": "Google Calendar per Chrome permet veure el calendari mentre visites altres llocs web. Per això, és necesari donar accés al teu calendari. Només cal una vegada",
-    "description": "Missatge explicant el funcionament de OAuth."
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
+    "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {
     "message": "Problemes?",

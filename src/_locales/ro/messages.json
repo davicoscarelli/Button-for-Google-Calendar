@@ -44,7 +44,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Cu Google Calendar pentru Chrome poți să-ți verifici calendarul în timp ce vizitezi și alte website-uri. Dar trebuie să-i dai acces la calendarul tău. Este necesar un proces care se va realiza o singură dată înainte să folosesti aplicația.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

@@ -44,7 +44,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "تقويم Google لـ Chrome يتيح لك التحقق من التقويم الخاص بك أثناء زيارة مواقع أخرى. لهذا، تحتاج إلى أن تمنحه الوصول إلى التقويم الخاص بك. هذه الخطوة مطلوبة للإعداد لمرة واحدة قبل أن تتمكن من استخدام هذا التطبيق.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

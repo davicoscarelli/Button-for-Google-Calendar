@@ -48,8 +48,8 @@
     "description": "उपयोगकर्ता को अधिकृत बटन पर क्लिक करने के बाद दिखाया गया संदेश।"
   },
   "authorization_explanation": {
-    "message": "क्रोम के लिए Google कैलेंडर, आपको अन्य वेबसाइटों पर जाते समय अपने कैलेंडर को देखने देता है। इसके लिए, आपको इसे अपने कैलेंडर तक पहुँचने की अनुमति प्रदान प्रदान करनी होगी। इससे पहले कि आप इस ऐप का उपयोग कर सकें, यह एक बार की स्थापना आवश्यक है",
-    "description": "OAuth प्रवाह को समझाते हुए एक विस्तृत संदेश"
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
+    "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {
     "message": "समस्याएँ?",

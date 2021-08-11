@@ -44,7 +44,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "Kalendarz Google dla Chrome pozwala sprawdzać kalendarz kiedy odwiedzasz inne strony. Do tego musisz zezwolić na dostęp do twojego Kalendarza. Trzeba to zrobić tylko raz przed użyciem tej aplikacji.",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {

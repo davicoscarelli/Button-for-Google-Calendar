@@ -44,7 +44,7 @@
     "description": "A message shown after the user clicks on the Authorize button."
   },
   "authorization_explanation": {
-    "message": "ခရုမ်းအတွက် ဂူဂဲလ်ပြက္ခဒိန်သည် အခြားဝဘ်ဆိုဒ်များကို လည်ပတ်ကြည့်ရှုနေစဉ် သင့်ပြက္ခဒိန်ကို စစ်ဆေးနိုင်စေပါသည်။ ဒီအတွက် သင်သည် သင့်ပြက္ခဒိန်ကို အသုံးပြုနိုင်ရန် ခွင့်ပြုပေးဖို့ လိုအပ်သည်။ ဒီအက်ပ်ကို အသုံးမပြုခင် စတင်အသုံးပြုစဉ်ချိန်ညှိမှု တစ်ကြိမ်သာ လိုအပ်သည်။",
+    "message": "In order to use the extension, you need to grant it access to your Google calendar. This is a one-time setup step required before you can use this app.",
     "description": "A detailed message explaining the OAuth flow."
   },
   "problems": {
